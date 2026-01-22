@@ -65,3 +65,17 @@ ai-automation-system/
 - Add real system monitoring (ports, services)
 - Implement alerting via Telegram or Email
 - Add authentication and role-based access
+
+## Screenshots
+
+### Command Execution
+![Command API](screenshots/swagger-command.png)
+
+### Email Alert
+![Mailtrap Alert](screenshots/mailtrap-alert.png)
+
+### Monitoring Metrics
+![Metrics](screenshots/metrics-endpoint.png)
+
+### System Logs
+![Logs](screenshots/terminal-logs.png)
